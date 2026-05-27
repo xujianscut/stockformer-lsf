@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.swp
+.DS_Store
+.ipynb_checkpoints/
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Training artefacts that are large and easily reproduced
+trained_models/
+tensorboard_log/
+results/test_eval/figures/
+results/test_eval/csv/
+results/test_eval/logs/
+*/checkpoints/
+
+# Local logs
+*.log
