@@ -3,7 +3,7 @@
 Code, data, and pretrained checkpoints for our paper
 
 > **Representation Fusion Outpaces Policy Expressivity in Price-Volume-Only Trading RL**
-> Shuaibo Qiu, Jian Xu (corresponding) — *under review at IEEE ICDM 2026*
+> Shuaibo Qiu, Jian Xu (corresponding)
 
 We propose a small architectural change to the [StockFormer](https://github.com/gsyyysg/StockFormer)
 (IJCAI'23) hybrid trading framework: a **learnable set-fusion (LSF)** module that
